@@ -1,6 +1,6 @@
 ## 1.2.0
 - Améliore la gestion du KNX et la compatibilité ETS5
-- Ajout de la possibilité de filtré les adresses de groupe du projet
+- Ajout de la possibilité de filtrer les adresses de groupe du projet
 - Passe les paramètres des fonctions sur RTI en Dropdown, plutôt qu'en textBox
 
 ## 1.1.3
