@@ -1,3 +1,6 @@
+## 1.2.2
+- Améliorations des performances
+
 ## 1.2.1 
 - Augmentation du nombre d'event disponible par GA
 - Passage des paramètres aux fonctions via liste déroulante préremplie
