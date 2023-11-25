@@ -1,3 +1,10 @@
+## 2.0.1
+- Ajout de la compatibilité vers ETS 6.1
+- Ajout de la compatibilité avec les fichiers .knxproj protégé par mot de passe
+- Amélioration des performances de lecture des fichiers knxProj
+- Amelioration globale de la stabilité
+- Possibilité de redémarrrer la Mixibus depuis le driver
+
 ## 2.0.0
 - Importante mise à jour graphique.
 - Ajout d'outils de lecture/écriture sur le bus KNX
